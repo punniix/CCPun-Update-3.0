@@ -1,0 +1,42 @@
+1:"$Sreact.fragment"
+2:I[21566,["/_next/static/chunks/0f673c1a33353de0.js","/_next/static/chunks/d48fd7b818561ef5.js","/_next/static/chunks/7b7f6253315c3db0.js","/_next/static/chunks/4016e8b83f1dca14.js"],"default"]
+3:I[243,["/_next/static/chunks/0f673c1a33353de0.js","/_next/static/chunks/d48fd7b818561ef5.js","/_next/static/chunks/7b7f6253315c3db0.js","/_next/static/chunks/4016e8b83f1dca14.js"],"default"]
+8:I[35470,["/_next/static/chunks/608ac81793d08fd0.js","/_next/static/chunks/8a0fbf31ce66a78c.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+4:Tcae,## 1. เข้าใจเป้าหมายการเงินของคุณ
+
+ก่อนเริ่มลงทุน สิ่งแรกที่ต้องทำคือ ตั้งเป้าหมายการเงินให้ชัดเจน เช่น ต้องการเกษียณอายุเมื่อไหร่ ต้องการเงินเท่าไหร่ หรือต้องการสร้างรายได้เสริม
+
+### เป้าหมายควรเป็น SMART:
+- **Specific**เจาะจงว่าต้องการอะไร
+- **Measurable**วัดผลได้
+- **Achievable**ทำได้จริง
+- **Relevant**เกี่ยวข้องกับชีวิตของคุณ
+- **Time-bound**มีกำหนดเวลา
+
+## 2. เริ่มต้นจากการออมและการจัดสรรงบประมาณ
+
+การลงทุนที่ดีเริ่มต้นจากการออม ลองใช้กฎ 50/30/20 โดยแบ่งรายได้ 50% สำหรับค่าใช้จ่ายจำเป็น 30% สำหรับความต้องการ และ 20% สำหรับการออมและการลงทุน
+
+> **เคล็ดลับ:** อย่าเพิ่งประเมินสิ่งที่เริ่มต้นเล็กๆ ได้ ก้าวแรกเล็กๆ สำคัญที่สุด
+
+## 3. ศึกษาผลิตภัณฑ์การลงทุนพื้นฐาน
+
+มีผลิตภัณฑ์การลงทุนหลายประเภท แต่สำหรับมือใหม่ ควรเริ่มจาก:
+
+- **กองทุนรวม (Mutual Funds)**กระจายความเสี่ยง บริหารโดยผู้จัดการกองทุนมืออาชีพ
+- **หุ้น (Stocks)**เหมาะสำหรับผู้ที่ต้องการผลตอบแทนสูง แต่มีความเสี่ยงสูง
+- **พันธบัตร (Bonds)**ความเสี่ยงต่ำ ผลตอบแทนสม่ำเสมอ
+- **กองทุน ETF**คล้ายกองทุนรวม แต่ซื้อขายได้เหมือนหุ้น
+
+## 4. กระจายความเสี่ยง (Diversification)
+
+อย่าใส่ไข่ทุกฟองไว้ในตะกร้าใบเดียว ควรกระจายการลงทุนในสินทรัพย์หลายประเภท เพื่อลดความเสี่ยงจากการขาดทุน
+
+## 5. ลงทุนอย่างสม่ำเสมอ (Dollar Cost Averaging)
+
+การลงทุนเป็นประจำทุกเดือน (DCA) ช่วยลดความเสี่ยงจากการจับจังหวะตลาด และสร้างวินัยในการลงทุนระยะยาว0:{"buildId":"u3JP7ozjWWPZ6oq2b6NSN","rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"5 เคล็ดลับการลงทุนสำหรับมือใหม่ที่ต้องรู้\",\"description\":\"เริ่มต้นลงทุนอย่างมั่นใจ ด้วยเคล็ดลับที่ช่วยให้คุณเข้าใจหลักการพื้นฐานและลดความเสี่ยงจากการลงทุน\",\"image\":\"https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&h=450&fit=crop\",\"url\":\"https://blog.ccpun.com/5-investment-tips-for-beginners/\",\"datePublished\":\"2026-02-15\",\"dateModified\":\"2026-02-15\",\"inLanguage\":\"th\",\"keywords\":\"การลงทุน, มือใหม่, กองทุนรวม\",\"articleSection\":\"การลงทุน\",\"author\":{\"@type\":\"Person\",\"name\":\"ปั้น\",\"url\":\"https://ccpun.com\",\"jobTitle\":\"ที่ปรึกษาการเงินอิสระ\",\"sameAs\":[\"https://line.me/ti/p/~@ccpun\"]},\"publisher\":{\"@type\":\"Organization\",\"name\":\"CCPun Financial Advisor\",\"url\":\"https://ccpun.com\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://ccpun.com/og-image.jpg\",\"width\":1200,\"height\":630}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://blog.ccpun.com/5-investment-tips-for-beginners/\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"หน้าแรก\",\"item\":\"https://ccpun.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"บทความ\",\"item\":\"https://blog.ccpun.com\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"5 เคล็ดลับการลงทุนสำหรับมือใหม่ที่ต้องรู้\",\"item\":\"https://blog.ccpun.com/5-investment-tips-for-beginners/\"}]}"}}],null,["$","$L2",null,{}],["$","$L3",null,{"post":{"id":"7","slug":"5-investment-tips-for-beginners","title":"5 เคล็ดลับการลงทุนสำหรับมือใหม่ที่ต้องรู้","excerpt":"เริ่มต้นลงทุนอย่างมั่นใจ ด้วยเคล็ดลับที่ช่วยให้คุณเข้าใจหลักการพื้นฐานและลดความเสี่ยงจากการลงทุน","content":"$4","category":"การลงทุน","categorySlug":"investment","featuredImage":"https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&h=450&fit=crop","author":"ปั้น","authorImage":"","date":"15 ก.พ. 2569","readTime":"5 นาที","tags":["การลงทุน","มือใหม่","กองทุนรวม"]}}],"$L5"],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
+5:["$","footer",null,{"className":"footer-gradient py-10","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8","children":["$","div",null,{"className":"text-center","children":[["$","p",null,{"className":"text-xs text-muted-foreground max-w-2xl mx-auto leading-relaxed","children":[["$","span",null,{"className":"text-primary font-medium","children":"คำเตือน:"}]," การลงทุนมีความเสี่ยง ผู้ลงทุนควรทำความเข้าใจลักษณะสินค้า เงื่อนไขผลตอบแทน และความเสี่ยงก่อนตัดสินใจลงทุน",["$","br",null,{}],"ผลการดำเนินงานในอดีต มิได้เป็นสิ่งยืนยันถึงผลการดำเนินงานในอนาคต"]}],["$","div",null,{"className":"mt-6 pt-6 border-t border-border/30","children":["$","p",null,{"className":"text-xs text-muted-foreground","children":["© ",2026," CCPUN Financial Advisor. All rights reserved."]}]}]]}]}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/4016e8b83f1dca14.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null
