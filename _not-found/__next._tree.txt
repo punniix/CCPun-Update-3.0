@@ -1,4 +1,4 @@
 :HL["/_next/static/chunks/70e6339c52f1638f.css","style"]
 :HL["/assets/hero-bg-mobile.webp","image",{"type":"image/webp","fetchPriority":"high","media":"(max-width: 768px)"}]
 :HL["/assets/hero-bg.webp","image",{"type":"image/webp","fetchPriority":"high","media":"(min-width: 769px)"}]
-0:{"buildId":"yNBulbwVK26RC6vqO7E0j","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"/_not-found","paramType":null,"paramKey":"/_not-found","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"N3kLz40b8S3b9193O33Xu","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"/_not-found","paramType":null,"paramKey":"/_not-found","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
