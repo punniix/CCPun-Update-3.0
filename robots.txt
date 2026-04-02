@@ -1,3 +1,4 @@
+# Standard search crawlers
 User-agent: Googlebot
 Allow: /
 
@@ -10,6 +11,7 @@ Allow: /
 User-agent: facebookexternalhit
 Allow: /
 
+# AI crawlers — GEO (Generative Engine Optimization)
 User-agent: GPTBot
 Allow: /
 
@@ -22,12 +24,22 @@ Allow: /
 User-agent: ClaudeBot
 Allow: /
 
+User-agent: Claude-Web
+Allow: /
+
 User-agent: anthropic-ai
 Allow: /
 
-User-agent: Googlebot-Extended
+User-agent: Google-Extended
 Allow: /
 
+User-agent: Bytespider
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+# Default — allow all, block Next.js internals
 User-agent: *
 Allow: /
 Disallow: /_next/
