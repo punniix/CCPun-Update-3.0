@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,89116,(e,t,u)=>{t.exports=e.r(82643)},52878,e=>{"use strict";var t=e.i(52596),u=e.i(89116);function r(){let e=(0,u.useRouter)();return(0,t.useEffect)(()=>{e.replace("/ci-planning/")},[e]),null}e.s(["default",()=>r])}]);
