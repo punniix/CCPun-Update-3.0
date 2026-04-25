@@ -1,1 +1,0 @@
-(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,89116,(e,t,c)=>{t.exports=e.r(82643)},39057,e=>{"use strict";var t=e.i(52596),c=e.i(89116);function l(){let e=(0,c.useRouter)();return(0,t.useEffect)(()=>{e.replace("/tools/financial-health-check")},[e]),null}e.s(["default",()=>l])}]);
