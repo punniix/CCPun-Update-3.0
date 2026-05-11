@@ -3,4 +3,4 @@
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', '${e}');
-  `,document.head.appendChild(n)}e.s(["default",0,function(e){let{gaId:c}=e;return(0,t.useEffect)(()=>{if(c)return"accepted"===(0,n.getConsentStatus)()?void a(c):(window.addEventListener("ccpun:consent",e),()=>window.removeEventListener("ccpun:consent",e));function e(e){"accepted"===e.detail&&a(c)}},[c]),null}])},3372,e=>{e.n(e.i(34377))}]);
+  `,document.head.appendChild(n)}e.s(["default",0,function({gaId:e}){return(0,t.useEffect)(()=>{if(e)return"accepted"===(0,n.getConsentStatus)()?void a(e):(window.addEventListener("ccpun:consent",t),()=>window.removeEventListener("ccpun:consent",t));function t(t){"accepted"===t.detail&&a(e)}},[e]),null}])},3372,e=>{e.n(e.i(34377))}]);
