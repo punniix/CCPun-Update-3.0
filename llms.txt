@@ -1,4 +1,4 @@
-# CCPun Financial Advisor
+# [CCPun Financial Advisor](https://ccpun.com/)
 
 > CCPun เป็นที่ปรึกษาการเงินอิสระในประเทศไทย มีใบอนุญาต ก.ล.ต. และ คปภ.
 > ประสบการณ์กว่า 5 ปี
@@ -12,12 +12,24 @@
 
 ## บริการ
 
-- **Financial Checkup**: ตรวจสุขภาพการเงิน รู้ฐานะการเงินตัวเองภายใน 1 ชั่วโมง พร้อมโรดแมปชัดเจน
-- **Investment Advisor**: วางแผนการลงทุนกองทุนรวม RMF SSF ThaiESG เฉพาะบุคคล
-- **Risk Management**: วางแผนประกันชีวิต ประกันสุขภาพ รับมือเหตุฉุกเฉิน
-- **Tax Planning**: ลดภาษีถูกกฎหมาย ด้วย RMF, ThaiESG, ประกันชีวิต
+- [**Financial Health Check**](https://ccpun.com/tools/financial-health-check/): ตรวจสุขภาพการเงิน เห็นฐานะปัจจุบัน ภาระหนี้ เงินสำรอง และช่องว่างความคุ้มครอง
+- [**CI Planning**](https://ccpun.com/ci-planning/): ประเมินทุนประกันโรคร้ายแรงที่ควรมีจากรายได้ รายจ่าย ภาระ และเงินสำรอง
+- [**Investment Advisor**](https://ccpun.com/financial-advisor/): วางแผนการลงทุนกองทุนรวม RMF SSF ThaiESG เฉพาะบุคคล
+- [**Risk Management**](https://ccpun.com/living-benefits/): วางแผนประกันชีวิต ประกันสุขภาพ และโรคร้ายแรงเพื่อรับมือเหตุฉุกเฉิน
+- **Tax Planning**: ลดภาษีถูกกฎหมายด้วย RMF, ThaiESG, ประกันชีวิต และประกันสุขภาพ
 
 พาร์ทเนอร์: AIA, Maybank, PhillipCapital, Finnomena
+
+## หน้าสำคัญ
+
+- [หน้าแรก CCPun](https://ccpun.com/)
+- [ที่ปรึกษาการเงินคืออะไร](https://ccpun.com/financial-advisor/)
+- [Financial Health Check](https://ccpun.com/tools/financial-health-check/)
+- [CI Planning](https://ccpun.com/ci-planning/)
+- [Living Benefits](https://ccpun.com/living-benefits/)
+- [บทความ CCPun](https://blog.ccpun.com/)
+- [บทความประกันโรคร้ายแรง](https://blog.ccpun.com/critical-illness-insurance-guide/)
+- [บทความ AIA Health Happy](https://blog.ccpun.com/aia-health-happy-describe/)
 
 ## เนื้อหา / บทความ
 
@@ -28,11 +40,11 @@
 - การวางแผนเกษียณ
 - การเงินส่วนบุคคล
 
-Blog: https://blog.ccpun.com
+Blog: [https://blog.ccpun.com](https://blog.ccpun.com/)
 
 ## ติดต่อ
 
-- เว็บไซต์: https://ccpun.com
-- Facebook Inbox: https://m.me/61585953063887
-- Facebook Page: https://www.facebook.com/profile.php?id=61585953063887
+- เว็บไซต์: [https://ccpun.com](https://ccpun.com/)
+- LINE OpenChat: [กลุ่ม CCPun](https://line.me/ti/g2/1goOZgmbZX9DOo2h1C_TBjEz-6rxO324nTBK0g?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)
+- Facebook Page: [Financial Basewealth by CCPun](https://www.facebook.com/profile.php?id=61585953063887)
 - โทรศัพท์: 063-343-8513

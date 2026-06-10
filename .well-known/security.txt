@@ -1,0 +1,5 @@
+Contact: https://line.me/ti/g2/1goOZgmbZX9DOo2h1C_TBjEz-6rxO324nTBK0g?utm_source=invitation&utm_medium=link_copy&utm_campaign=default
+Contact: https://ccpun.com/
+Preferred-Languages: th, en
+Canonical: https://ccpun.com/.well-known/security.txt
+Expires: 2027-06-10T00:00:00+07:00
